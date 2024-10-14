@@ -1,0 +1,24 @@
+@  KANDY CITY CENTRE 
+       WORLDSPICE
+
+    Island Name: Island A
+      KOT/BOT No:  001
+Order No:      2345
+Date:               2024-10-11
+Time:               13:00
+Card No:            CARD0012
+User:               John Doe
+-----------------------------------------
+ITEM          QTY      PRICE     AMOUNT
+-----------------------------------------
+Rice            2       5.00      10.00
+Chicken         1      10.00      10.00
+Chicken         1      10.00      10.00
+Chicken         1      10.00      10.00
+-----------------------------------------
+Gross Total:                      20.00
+VAT:                             200.00
+Total:                             2.00
+
+ ALL ABOVE PRICES ARE SUBJECT TO TAXES 
+di
